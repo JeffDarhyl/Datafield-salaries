@@ -1,0 +1,322 @@
+,job family,country,country_code,year,experience_level,remote_ratio,company_size,mean_salary
+0,Business Intelligence,Kenya,KEN,2021,EN,100,S,9272.0
+1,Business Intelligence,United States,USA,2020,MI,0,M,98000.0
+2,Business Intelligence,United States,USA,2021,EN,50,S,55000.0
+3,Business Intelligence,United States,USA,2021,EX,100,L,150000.0
+4,Business Intelligence,United States,USA,2021,MI,50,L,36259.0
+5,Business Intelligence,United States,USA,2021,MI,100,M,100000.0
+6,Data Analytics,Canada,CAN,2021,SE,100,M,71786.0
+7,Data Analytics,Canada,CAN,2022,EN,0,M,59500.0
+8,Data Analytics,Canada,CAN,2022,MI,0,M,80000.0
+9,Data Analytics,Canada,CAN,2022,MI,50,L,70912.0
+10,Data Analytics,Canada,CAN,2022,MI,100,S,75000.0
+11,Data Analytics,Canada,CAN,2022,SE,100,M,95650.0
+12,Data Analytics,Denmark,DNK,2021,SE,100,L,88654.0
+13,Data Analytics,France,FRA,2020,MI,50,L,46759.0
+14,Data Analytics,France,FRA,2021,EN,50,M,59102.0
+15,Data Analytics,Germany,DEU,2021,SE,50,L,63831.0
+16,Data Analytics,Germany,DEU,2021,SE,100,L,79197.0
+17,Data Analytics,Greece,GRC,2022,MI,100,M,38470.0
+18,Data Analytics,Greece,GRC,2022,MI,100,S,20000.0
+19,Data Analytics,Honduras,HND,2020,MI,0,S,20000.0
+20,Data Analytics,India,IND,2020,EN,0,S,6072.0
+21,Data Analytics,India,IND,2020,MI,100,L,6072.0
+22,Data Analytics,India,IND,2021,MI,100,L,19609.0
+23,Data Analytics,India,IND,2022,MI,100,M,18442.0
+24,Data Analytics,Luxembourg,LUX,2021,EN,100,L,59102.0
+25,Data Analytics,Nigeria,NGA,2020,EN,100,S,10000.0
+26,Data Analytics,Pakistan,PAK,2020,MI,50,L,8000.0
+27,Data Analytics,Pakistan,PAK,2022,EN,0,M,20000.0
+28,Data Analytics,Spain,ESP,2021,EN,50,M,10354.0
+29,Data Analytics,Spain,ESP,2022,MI,100,M,38470.0
+30,Data Analytics,United Kingdom,GBR,2021,MI,50,L,51519.0
+31,Data Analytics,United Kingdom,GBR,2021,SE,50,L,61896.0
+32,Data Analytics,United Kingdom,GBR,2021,SE,100,M,50000.0
+33,Data Analytics,United Kingdom,GBR,2022,MI,0,M,55622.5
+34,Data Analytics,United Kingdom,GBR,2022,MI,100,M,45807.0
+35,Data Analytics,United States,USA,2020,EN,100,L,87666.67
+36,Data Analytics,United States,USA,2020,MI,100,L,102333.33
+37,Data Analytics,United States,USA,2021,EN,100,M,65000.0
+38,Data Analytics,United States,USA,2021,EN,100,S,75000.0
+39,Data Analytics,United States,USA,2021,MI,0,L,68500.0
+40,Data Analytics,United States,USA,2021,MI,100,L,173600.0
+41,Data Analytics,United States,USA,2021,MI,100,M,90000.0
+42,Data Analytics,United States,USA,2021,SE,0,L,120000.0
+43,Data Analytics,United States,USA,2021,SE,100,L,170000.0
+44,Data Analytics,United States,USA,2021,SE,100,M,145000.0
+45,Data Analytics,United States,USA,2021,SE,100,S,80000.0
+46,Data Analytics,United States,USA,2022,EN,50,L,100000.0
+47,Data Analytics,United States,USA,2022,EX,100,M,137500.0
+48,Data Analytics,United States,USA,2022,MI,0,M,116380.0
+49,Data Analytics,United States,USA,2022,MI,0,S,58000.0
+50,Data Analytics,United States,USA,2022,MI,100,M,116875.0
+51,Data Analytics,United States,USA,2022,SE,0,M,132660.0
+52,Data Analytics,United States,USA,2022,SE,100,L,405000.0
+53,Data Analytics,United States,USA,2022,SE,100,M,114736.79
+54,Data Engineering,Austria,AUT,2020,MI,50,L,74130.0
+55,Data Engineering,Canada,CAN,2021,SE,50,M,99703.0
+56,Data Engineering,Canada,CAN,2022,EX,100,S,118187.0
+57,Data Engineering,Canada,CAN,2022,SE,100,M,141550.0
+58,Data Engineering,France,FRA,2020,MI,50,L,70139.0
+59,Data Engineering,France,FRA,2022,MI,100,M,68147.0
+60,Data Engineering,Germany,DEU,2020,EN,100,L,54742.0
+61,Data Engineering,Germany,DEU,2020,MI,100,S,59303.0
+62,Data Engineering,Germany,DEU,2021,EN,50,M,65013.0
+63,Data Engineering,Germany,DEU,2022,EN,100,M,58035.0
+64,Data Engineering,Germany,DEU,2022,MI,50,L,54957.0
+65,Data Engineering,Greece,GRC,2020,SE,50,L,47899.0
+66,Data Engineering,Greece,GRC,2022,MI,0,M,54957.0
+67,Data Engineering,Greece,GRC,2022,MI,100,M,70070.5
+68,Data Engineering,India,IND,2021,EN,50,M,21637.0
+69,Data Engineering,India,IND,2021,EN,100,L,23328.0
+70,Data Engineering,India,IND,2021,MI,0,L,22611.0
+71,Data Engineering,"Iran, Islamic Republic of",IRN,2021,MI,100,M,4000.0
+72,Data Engineering,Japan,JPN,2020,EN,100,S,41689.0
+73,Data Engineering,Malta,MLT,2021,MI,50,L,28369.0
+74,Data Engineering,Mexico,MEX,2020,SE,0,S,33511.0
+75,Data Engineering,"Moldova, Republic of",MDA,2021,MI,0,S,18000.0
+76,Data Engineering,Netherlands,NLD,2021,MI,100,L,57566.0
+77,Data Engineering,New Zealand,NZL,2020,SE,50,S,125000.0
+78,Data Engineering,Poland,POL,2021,MI,100,L,28476.0
+79,Data Engineering,Romania,ROU,2021,MI,50,M,60000.0
+80,Data Engineering,Singapore,SGP,2021,MI,50,L,89294.0
+81,Data Engineering,Spain,ESP,2020,EX,50,L,79833.0
+82,Data Engineering,Spain,ESP,2022,MI,100,M,70070.5
+83,Data Engineering,Switzerland,CHE,2021,EN,0,L,5882.0
+84,Data Engineering,Turkey,TUR,2021,MI,0,M,12103.0
+85,Data Engineering,Turkey,TUR,2021,MI,100,M,28016.0
+86,Data Engineering,United Kingdom,GBR,2020,MI,50,L,112872.0
+87,Data Engineering,United Kingdom,GBR,2020,SE,50,M,109024.0
+88,Data Engineering,United Kingdom,GBR,2020,SE,100,S,114047.0
+89,Data Engineering,United Kingdom,GBR,2021,MI,50,L,72212.0
+90,Data Engineering,United Kingdom,GBR,2021,MI,50,S,66022.0
+91,Data Engineering,United Kingdom,GBR,2021,MI,100,L,82528.0
+92,Data Engineering,United Kingdom,GBR,2021,SE,50,L,96282.0
+93,Data Engineering,United Kingdom,GBR,2021,SE,50,S,76833.0
+94,Data Engineering,United Kingdom,GBR,2021,SE,100,M,113476.0
+95,Data Engineering,United Kingdom,GBR,2021,SE,100,S,103160.0
+96,Data Engineering,United Kingdom,GBR,2022,EN,100,M,49079.0
+97,Data Engineering,United Kingdom,GBR,2022,MI,0,M,86706.0
+98,Data Engineering,United Kingdom,GBR,2022,MI,100,M,85070.0
+99,Data Engineering,United Kingdom,GBR,2022,SE,0,M,71982.0
+100,Data Engineering,United States,USA,2020,EN,100,L,70000.0
+101,Data Engineering,United States,USA,2020,MI,100,L,108000.0
+102,Data Engineering,United States,USA,2020,MI,100,M,93400.0
+103,Data Engineering,United States,USA,2020,SE,100,L,188000.0
+104,Data Engineering,United States,USA,2021,EN,100,L,76250.0
+105,Data Engineering,United States,USA,2021,EX,100,L,600000.0
+106,Data Engineering,United States,USA,2021,MI,0,L,23002.5
+107,Data Engineering,United States,USA,2021,MI,0,M,102462.5
+108,Data Engineering,United States,USA,2021,MI,100,L,145200.0
+109,Data Engineering,United States,USA,2021,SE,0,L,213000.0
+110,Data Engineering,United States,USA,2021,SE,0,M,165000.0
+111,Data Engineering,United States,USA,2021,SE,50,S,160000.0
+112,Data Engineering,United States,USA,2021,SE,100,L,171166.67
+113,Data Engineering,United States,USA,2021,SE,100,M,175000.0
+114,Data Engineering,United States,USA,2021,SE,100,S,137500.0
+115,Data Engineering,United States,USA,2022,EN,100,M,120000.0
+116,Data Engineering,United States,USA,2022,EN,100,S,65000.0
+117,Data Engineering,United States,USA,2022,EX,100,M,245500.0
+118,Data Engineering,United States,USA,2022,MI,0,M,113149.75
+119,Data Engineering,United States,USA,2022,MI,100,M,160000.0
+120,Data Engineering,United States,USA,2022,SE,0,L,136500.0
+121,Data Engineering,United States,USA,2022,SE,0,M,132968.75
+122,Data Engineering,United States,USA,2022,SE,100,L,168633.33
+123,Data Engineering,United States,USA,2022,SE,100,M,149803.14
+124,Data Science,Algeria,DZA,2022,EN,50,M,100000.0
+125,Data Science,Australia,AUS,2022,EN,50,M,86703.0
+126,Data Science,Austria,AUT,2020,SE,0,S,91237.0
+127,Data Science,Austria,AUT,2021,MI,50,M,61467.0
+128,Data Science,Brazil,BRA,2021,MI,0,S,12901.0
+129,Data Science,Canada,CAN,2021,MI,50,L,54238.0
+130,Data Science,Canada,CAN,2021,MI,100,L,75774.0
+131,Data Science,Canada,CAN,2021,SE,50,L,127221.0
+132,Data Science,Canada,CAN,2021,SE,100,L,103691.0
+133,Data Science,Canada,CAN,2021,SE,100,S,87738.0
+134,Data Science,Canada,CAN,2022,EN,100,L,52396.0
+135,Data Science,Canada,CAN,2022,EX,50,L,196979.0
+136,Data Science,Canada,CAN,2022,MI,100,M,69336.0
+137,Data Science,Chile,CHL,2021,MI,100,L,40038.0
+138,Data Science,Estonia,EST,2022,MI,100,S,32974.0
+139,Data Science,France,FRA,2020,EN,0,M,39916.0
+140,Data Science,France,FRA,2020,EN,0,S,51321.0
+141,Data Science,France,FRA,2020,MI,50,S,42197.0
+142,Data Science,France,FRA,2021,EN,50,L,36643.0
+143,Data Science,France,FRA,2021,EN,50,M,49646.0
+144,Data Science,France,FRA,2021,SE,50,L,53192.0
+145,Data Science,France,FRA,2021,SE,50,M,77684.0
+146,Data Science,France,FRA,2021,SE,100,L,152000.0
+147,Data Science,Germany,DEU,2020,EN,0,S,49268.0
+148,Data Science,Germany,DEU,2020,EN,50,S,62726.0
+149,Data Science,Germany,DEU,2020,MI,0,L,79833.0
+150,Data Science,Germany,DEU,2020,SE,100,M,148261.0
+151,Data Science,Germany,DEU,2021,EN,0,L,76833.0
+152,Data Science,Germany,DEU,2021,EN,50,L,63831.0
+153,Data Science,Germany,DEU,2021,EN,100,S,76833.0
+154,Data Science,Germany,DEU,2021,EX,0,L,141846.0
+155,Data Science,Germany,DEU,2021,EX,50,M,130026.0
+156,Data Science,Germany,DEU,2021,MI,50,L,90040.67
+157,Data Science,Germany,DEU,2021,MI,100,S,25532.0
+158,Data Science,Germany,DEU,2021,SE,100,M,173762.0
+159,Data Science,Germany,DEU,2022,SE,100,M,162674.0
+160,Data Science,Greece,GRC,2021,MI,100,M,40189.0
+161,Data Science,Hungary,HUN,2020,MI,50,L,35735.0
+162,Data Science,India,IND,2020,EN,50,M,5707.0
+163,Data Science,India,IND,2020,MI,0,L,40481.0
+164,Data Science,India,IND,2021,EN,50,L,29751.0
+165,Data Science,India,IND,2021,EN,100,M,28399.0
+166,Data Science,India,IND,2021,MI,0,M,33808.0
+167,Data Science,India,IND,2021,MI,0,S,9466.0
+168,Data Science,India,IND,2021,MI,100,S,16904.0
+169,Data Science,India,IND,2021,SE,50,L,67617.5
+170,Data Science,India,IND,2022,EN,100,M,18442.0
+171,Data Science,India,IND,2022,MI,100,L,31615.0
+172,Data Science,Israel,ISR,2021,MI,100,M,119059.0
+173,Data Science,Italy,ITA,2020,EN,50,S,21669.0
+174,Data Science,Japan,JPN,2021,SE,0,S,168000.0
+175,Data Science,Luxembourg,LUX,2020,MI,50,S,62726.0
+176,Data Science,Malaysia,MYS,2022,EN,100,L,40000.0
+177,Data Science,Mexico,MEX,2021,MI,0,S,2859.0
+178,Data Science,Mexico,MEX,2022,SE,100,L,60000.0
+179,Data Science,Nigeria,NGA,2021,MI,100,L,50000.0
+180,Data Science,Poland,POL,2021,EX,100,L,153667.0
+181,Data Science,Poland,POL,2022,MI,100,L,35590.0
+182,Data Science,Russian Federation,RUS,2021,EX,0,M,85000.0
+183,Data Science,Russian Federation,RUS,2021,EX,50,L,230000.0
+184,Data Science,Slovenia,SVN,2021,SE,100,L,102839.0
+185,Data Science,Spain,ESP,2020,MI,100,M,38776.0
+186,Data Science,Spain,ESP,2021,EX,100,S,69741.0
+187,Data Science,Spain,ESP,2021,MI,100,L,37825.0
+188,Data Science,Spain,ESP,2021,MI,100,M,46809.0
+189,Data Science,Switzerland,CHE,2022,MI,0,L,122346.0
+190,Data Science,Turkey,TUR,2021,SE,50,L,20171.0
+191,Data Science,Ukraine,UKR,2021,EN,100,L,13400.0
+192,Data Science,United Arab Emirates,ARE,2020,MI,0,L,115000.0
+193,Data Science,United Kingdom,GBR,2020,MI,100,S,76958.0
+194,Data Science,United Kingdom,GBR,2021,EN,0,L,110037.0
+195,Data Science,United Kingdom,GBR,2021,MI,50,L,86585.0
+196,Data Science,United Kingdom,GBR,2022,MI,0,M,82888.67
+197,Data Science,United Kingdom,GBR,2022,SE,0,M,111245.5
+198,Data Science,United States,USA,2020,EN,100,S,105000.0
+199,Data Science,United States,USA,2020,EX,100,L,325000.0
+200,Data Science,United States,USA,2020,MI,100,L,104000.0
+201,Data Science,United States,USA,2020,MI,100,M,128175.0
+202,Data Science,United States,USA,2020,MI,100,S,45760.0
+203,Data Science,United States,USA,2020,SE,50,L,120000.0
+204,Data Science,United States,USA,2020,SE,100,L,240214.0
+205,Data Science,United States,USA,2020,SE,100,M,190200.0
+206,Data Science,United States,USA,2020,SE,100,S,190000.0
+207,Data Science,United States,USA,2021,EN,0,S,100000.0
+208,Data Science,United States,USA,2021,EN,50,L,58000.0
+209,Data Science,United States,USA,2021,EN,100,M,90000.0
+210,Data Science,United States,USA,2021,EN,100,S,90000.0
+211,Data Science,United States,USA,2021,EX,0,L,250000.0
+212,Data Science,United States,USA,2021,EX,100,L,235000.0
+213,Data Science,United States,USA,2021,EX,100,S,416000.0
+214,Data Science,United States,USA,2021,MI,0,L,73000.0
+215,Data Science,United States,USA,2021,MI,0,S,110000.0
+216,Data Science,United States,USA,2021,MI,50,L,125250.0
+217,Data Science,United States,USA,2021,MI,100,L,155500.0
+218,Data Science,United States,USA,2021,MI,100,M,150000.0
+219,Data Science,United States,USA,2021,MI,100,S,44089.5
+220,Data Science,United States,USA,2021,SE,0,L,198333.33
+221,Data Science,United States,USA,2021,SE,50,L,54094.0
+222,Data Science,United States,USA,2021,SE,100,L,179500.0
+223,Data Science,United States,USA,2021,SE,100,M,105000.0
+224,Data Science,United States,USA,2022,EX,100,M,195937.5
+225,Data Science,United States,USA,2022,MI,0,M,115850.0
+226,Data Science,United States,USA,2022,MI,100,L,146000.0
+227,Data Science,United States,USA,2022,MI,100,M,148500.0
+228,Data Science,United States,USA,2022,MI,100,S,48000.0
+229,Data Science,United States,USA,2022,SE,0,L,166900.0
+230,Data Science,United States,USA,2022,SE,0,M,141875.0
+231,Data Science,United States,USA,2022,SE,100,L,232625.0
+232,Data Science,United States,USA,2022,SE,100,M,163142.97
+233,Data Science,Viet Nam,VNM,2021,EN,0,M,4000.0
+234,Machine Learning Engineering,American Samoa,ASM,2021,EN,100,S,18053.0
+235,Machine Learning Engineering,Australia,AUS,2022,EN,100,S,150000.0
+236,Machine Learning Engineering,Australia,AUS,2022,MI,100,L,87425.0
+237,Machine Learning Engineering,Belgium,BEL,2021,MI,100,M,88654.0
+238,Machine Learning Engineering,Belgium,BEL,2021,SE,50,M,82744.0
+239,Machine Learning Engineering,Brazil,BRA,2021,SE,0,M,18907.0
+240,Machine Learning Engineering,Brazil,BRA,2021,SE,100,M,24000.0
+241,Machine Learning Engineering,Canada,CAN,2020,SE,50,L,117104.0
+242,Machine Learning Engineering,Canada,CAN,2021,SE,100,L,225000.0
+243,Machine Learning Engineering,Canada,CAN,2022,MI,100,M,78791.0
+244,Machine Learning Engineering,Canada,CAN,2022,SE,100,M,78791.0
+245,Machine Learning Engineering,China,CHN,2020,MI,0,M,43331.0
+246,Machine Learning Engineering,Colombia,COL,2021,EN,50,M,21844.0
+247,Machine Learning Engineering,Croatia,HRV,2020,SE,100,S,45618.0
+248,Machine Learning Engineering,Czechia,CZE,2022,EN,100,M,31875.0
+249,Machine Learning Engineering,Denmark,DNK,2020,EN,50,S,45896.0
+250,Machine Learning Engineering,Denmark,DNK,2021,EN,50,S,28609.0
+251,Machine Learning Engineering,Germany,DEU,2020,EN,100,S,15966.0
+252,Machine Learning Engineering,Germany,DEU,2021,EN,50,M,24823.0
+253,Machine Learning Engineering,Germany,DEU,2021,EN,100,S,85000.0
+254,Machine Learning Engineering,Germany,DEU,2021,SE,50,L,94564.0
+255,Machine Learning Engineering,Germany,DEU,2022,MI,100,M,87932.0
+256,Machine Learning Engineering,Germany,DEU,2022,SE,0,M,87932.0
+257,Machine Learning Engineering,India,IND,2021,EN,100,S,20000.0
+258,Machine Learning Engineering,India,IND,2021,MI,50,M,5409.0
+259,Machine Learning Engineering,India,IND,2021,SE,0,L,66265.0
+260,Machine Learning Engineering,India,IND,2021,SE,100,L,24342.0
+261,Machine Learning Engineering,India,IND,2022,EX,50,L,79039.0
+262,Machine Learning Engineering,Iraq,IRQ,2021,EN,50,S,100000.0
+263,Machine Learning Engineering,Ireland,IRL,2022,SE,100,S,71444.0
+264,Machine Learning Engineering,Italy,ITA,2021,MI,50,L,51064.0
+265,Machine Learning Engineering,Japan,JPN,2020,SE,0,S,260000.0
+266,Machine Learning Engineering,Japan,JPN,2021,MI,50,S,71691.67
+267,Machine Learning Engineering,Luxembourg,LUX,2022,EN,100,M,10000.0
+268,Machine Learning Engineering,Netherlands,NLD,2022,SE,100,L,62651.0
+269,Machine Learning Engineering,Pakistan,PAK,2021,MI,50,M,12000.0
+270,Machine Learning Engineering,Poland,POL,2021,MI,100,L,46597.0
+271,Machine Learning Engineering,Portugal,PRT,2020,MI,0,M,50180.0
+272,Machine Learning Engineering,Portugal,PRT,2022,EN,100,L,21983.0
+273,Machine Learning Engineering,Portugal,PRT,2022,MI,50,L,58255.0
+274,Machine Learning Engineering,Slovenia,SVN,2021,MI,50,L,24823.0
+275,Machine Learning Engineering,Spain,ESP,2021,MI,100,S,47282.0
+276,Machine Learning Engineering,Spain,ESP,2021,SE,100,L,55000.0
+277,Machine Learning Engineering,United Arab Emirates,ARE,2022,SE,100,S,92500.0
+278,Machine Learning Engineering,United Kingdom,GBR,2022,EN,100,L,37300.0
+279,Machine Learning Engineering,United Kingdom,GBR,2022,MI,0,M,111245.5
+280,Machine Learning Engineering,United States,USA,2020,EN,50,L,250000.0
+281,Machine Learning Engineering,United States,USA,2020,EN,100,S,138000.0
+282,Machine Learning Engineering,United States,USA,2020,SE,50,L,150000.0
+283,Machine Learning Engineering,United States,USA,2020,SE,100,S,60000.0
+284,Machine Learning Engineering,United States,USA,2021,EN,50,S,81000.0
+285,Machine Learning Engineering,United States,USA,2021,EN,100,L,225000.0
+286,Machine Learning Engineering,United States,USA,2021,EN,100,M,41000.0
+287,Machine Learning Engineering,United States,USA,2021,EN,100,S,68500.0
+288,Machine Learning Engineering,United States,USA,2021,MI,50,L,423000.0
+289,Machine Learning Engineering,United States,USA,2021,MI,100,L,270000.0
+290,Machine Learning Engineering,United States,USA,2021,MI,100,M,38400.0
+291,Machine Learning Engineering,United States,USA,2021,MI,100,S,95746.0
+292,Machine Learning Engineering,United States,USA,2021,SE,50,L,185000.0
+293,Machine Learning Engineering,United States,USA,2021,SE,50,S,120000.0
+294,Machine Learning Engineering,United States,USA,2021,SE,100,L,200000.0
+295,Machine Learning Engineering,United States,USA,2021,SE,100,M,195000.0
+296,Machine Learning Engineering,United States,USA,2021,SE,100,S,256000.0
+297,Machine Learning Engineering,United States,USA,2022,EN,0,M,125000.0
+298,Machine Learning Engineering,United States,USA,2022,MI,0,M,120000.0
+299,Machine Learning Engineering,United States,USA,2022,MI,50,L,37236.0
+300,Machine Learning Engineering,United States,USA,2022,MI,50,M,153000.0
+301,Machine Learning Engineering,United States,USA,2022,MI,100,L,136825.0
+302,Machine Learning Engineering,United States,USA,2022,MI,100,S,120000.0
+303,Machine Learning Engineering,United States,USA,2022,SE,0,M,177323.0
+304,Machine Learning Engineering,United States,USA,2022,SE,100,M,186650.0
+305,Research,Austria,AUT,2022,MI,0,L,64849.0
+306,Research,Canada,CAN,2021,MI,100,L,187442.0
+307,Research,Canada,CAN,2021,MI,100,M,63810.0
+308,Research,Canada,CAN,2021,SE,50,L,96113.0
+309,Research,China,CHN,2021,EN,0,L,100000.0
+310,Research,Czechia,CZE,2021,MI,50,L,69999.0
+311,Research,France,FRA,2021,MI,50,M,62649.0
+312,Research,France,FRA,2021,MI,50,S,56738.0
+313,Research,France,FRA,2022,SE,50,L,93427.0
+314,Research,Netherlands,NLD,2020,EN,50,L,42000.0
+315,Research,Portugal,PRT,2021,SE,50,L,60757.0
+316,Research,United Kingdom,GBR,2021,EN,50,L,82528.0
+317,Research,United States,USA,2020,MI,0,M,450000.0
+318,Research,United States,USA,2021,SE,100,S,50000.0
+319,Research,United States,USA,2022,EN,100,L,120000.0
+320,Research,United States,USA,2022,SE,50,L,144000.0
